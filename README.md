@@ -1,5 +1,5 @@
 # MyHDFSOperation
-this project is a simple project to show you how to interact with HDFS
+this project is a simple project to show you how to interact with hadoop HDFS in java
 
 ## compile 
   mvn package
